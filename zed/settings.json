@@ -1,0 +1,57 @@
+{
+  // Fonts.
+  "icon_theme": "Catppuccin Frappé",
+  "buffer_font_family": "JetBrains Mono",
+  "buffer_font_size": 14,
+
+  "ui_font_family": "JetBrains Mono",
+  "ui_font_size": 16,
+
+  // Theming.
+  "theme": {
+    "mode": "system",
+    "light": "One Light",
+    "dark": "Catppuccin Frappé",
+  },
+
+  // AI.
+  "disable_ai": true,
+
+  // Telemetry.
+  "telemetry": {
+    "diagnostics": false,
+    "metrics": false,
+    "anthropic_retention": false,
+  },
+
+  "collaboration_panel": {
+    "dock": "right",
+    "default_width": 360,
+  },
+
+  // Panels -> Git.
+  "git_panel": {
+    "dock": "right",
+    "default_width": 360,
+  },
+
+  // Panels -> Outline.
+  "outline_panel": {
+    "dock": "left",
+    "default_width": 360,
+  },
+
+  // Panels -> Project.
+  "project_panel": {
+    "dock": "left",
+    "default_width": 360,
+
+    "auto_fold_dirs": false,
+  },
+
+  // Panels -> Terminal.
+  "terminal": {
+    "dock": "bottom",
+    "default_height": 360,
+  },
+}
