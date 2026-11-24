@@ -1,0 +1,21 @@
+{
+  // Visual Studio Code.
+  "workbench.colorTheme": "Catppuccin Macchiato",
+  "workbench.iconTheme": "catppuccin-macchiato",
+  "workbench.startupEditor": "none",
+
+  // AI.
+  "chat.disableAIFeatures": true,
+
+  // Editor.
+  "editor.detectIndentation": false,
+  "editor.fontFamily": "JetBrains Mono",
+  "editor.tabSize": 2,
+
+  // Explorer.
+  "explorer.compactFolders": false,
+
+  // Git.
+  "scm.compactFolders": false,
+  "git.confirmSync": false,
+}
