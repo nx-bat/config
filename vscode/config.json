@@ -1,5 +1,6 @@
 {
   // Visual Studio Code.
+  "workbench.activityBar.location": "top",
   "workbench.colorTheme": "Catppuccin Macchiato",
   "workbench.iconTheme": "catppuccin-macchiato",
   "workbench.startupEditor": "none",
